@@ -12,3 +12,5 @@
 [ورکشاپ ردتیم - 2024 قسمت پنجم (هکرهای کره شمالی چطور در شبکه اطلاعات کاربران را استخراج می‌کنند؟)](https://youtu.be/3yVKOzEN8MQ?si=y_vYkDQ-M5tUJzhh)
 
 [ورکشاپ ردتیم 2024 - قسمت ششم ( هکرها چطور RDP session را در شبکه Hijack می‌کنند؟)](https://youtu.be/wrmgIGg7pEw?si=_cDRfvNSzDZONGEm)
+
+[ورکشاپ ردتیم - 2024 -قسمت هفتم(هکرهای کره شمالی چطور اطلاعات شبکه را جمع و خارج می‌کنند)(https://youtu.be/KDfm-JcFt4w?si=OI1L3AbtZ8tQ0O7P)
